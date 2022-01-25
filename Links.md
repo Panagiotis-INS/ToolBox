@@ -11,6 +11,7 @@
 - https://blog.nviso.eu/2021/10/21/cobalt-strike-using-known-private-keys-to-decrypt-traffic-part-1/
 - https://blog.didierstevens.com/2021/10/11/update-1768-py-version-0-0-8/
 - https://blog.didierstevens.com/
+- https://www.youtube.com/watch?v=VkRQTRtwJW8
 
 <center><h1>Malware Samples</h1></center>
 
